@@ -1,2 +1,2 @@
 # Js_probs
-Some Javascript problems
+Some Javascript concepts
